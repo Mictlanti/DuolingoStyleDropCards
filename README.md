@@ -11,9 +11,7 @@ El estado se maneja con un `ViewModel` que:
 
 ## Fotos del ejercicio
 
-![one](https://github.com/user-attachments/assets/3c39d575-d52d-4ade-aabe-c7a98fd5278c)
-![two](https://github.com/user-attachments/assets/abf66ccd-df06-4ee3-b536-9f092f0e71ae)
-![three](https://github.com/user-attachments/assets/ad7d8b79-ebda-468b-aa59-7a0e404f8b00)
+![one](https://github.com/user-attachments/assets/3c39d575-d52d-4ade-aabe-c7a98fd5278c) ![two](https://github.com/user-attachments/assets/abf66ccd-df06-4ee3-b536-9f092f0e71ae)
 
 
 ## 🚀 Tecnologías usadas
