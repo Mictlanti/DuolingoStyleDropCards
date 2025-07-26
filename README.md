@@ -11,8 +11,10 @@ El estado se maneja con un `ViewModel` que:
 
 ## Fotos del ejercicio
 
-![one](https://github.com/user-attachments/assets/3c39d575-d52d-4ade-aabe-c7a98fd5278c) ![two](https://github.com/user-attachments/assets/abf66ccd-df06-4ee3-b536-9f092f0e71ae)
-
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/3c39d575-d52d-4ade-aabe-c7a98fd5278c" width="200" />
+  <img src="https://github.com/user-attachments/assets/abf66ccd-df06-4ee3-b536-9f092f0e71ae" width="200" />
+</p>
 
 ## 🚀 Tecnologías usadas
 
@@ -20,3 +22,11 @@ El estado se maneja con un `ViewModel` que:
 - 🧩 Jetpack Compose
 - 🔄 ViewModel + State
 - 🎨 Material 3
+
+## 🤝 Contribuciones
+
+¡Toda retroalimentación es bienvenida! Este proyecto está en desarrollo y busca ser un recurso educativo abierto.
+
+## 📜 Licencia
+
+MIT © 2025 Daniel Rosas
