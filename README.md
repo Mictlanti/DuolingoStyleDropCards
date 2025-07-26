@@ -12,9 +12,9 @@ El estado se maneja con un `ViewModel` que:
 ## Fotos del ejercicio
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/3c39d575-d52d-4ade-aabe-c7a98fd5278c" width="200" style="margin-right: 20px;" />
-  <img src="https://github.com/user-attachments/assets/abf66ccd-df06-4ee3-b536-9f092f0e71ae" width="200" style="margin-right: 20px;" />
-  <img src="(https://github.com/user-attachments/assets/b9918593-6c43-4dc1-8d95-d11ebcc33b27" width="200" style="margin-right: 20px;" />
+  <img src="https://github.com/user-attachments/assets/3c39d575-d52d-4ade-aabe-c7a98fd5278c" width="250" style="margin-right: 20px;" />
+  <img src="https://github.com/user-attachments/assets/abf66ccd-df06-4ee3-b536-9f092f0e71ae" width="250" style="margin-right: 20px;" />
+  <img src="https://github.com/user-attachments/assets/b9918593-6c43-4dc1-8d95-d11ebcc33b27" width="250" style="margin-right: 20px;" />
 </p>
 
 ## 🚀 Tecnologías usadas
