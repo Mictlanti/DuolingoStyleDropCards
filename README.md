@@ -11,10 +11,10 @@ El estado se maneja con un `ViewModel` que:
 
 ## Fotos del ejercicio
 
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/3c39d575-d52d-4ade-aabe-c7a98fd5278c" width="30%"/>
-  <img src="https://github.com/user-attachments/assets/abf66ccd-df06-4ee3-b536-9f092f0e71ae" width="30%"/>
-  <img src="https://github.com/user-attachments/assets/b9918593-6c43-4dc1-8d95-d11ebcc33b27" width="30%"/>
+<div style="display: flex; justify-content: space-evenly; flex-wrap: wrap; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/3c39d575-d52d-4ade-aabe-c7a98fd5278c" width="28%"/>
+  <img src="https://github.com/user-attachments/assets/abf66ccd-df06-4ee3-b536-9f092f0e71ae" width="28%"/>
+  <img src="https://github.com/user-attachments/assets/b9918593-6c43-4dc1-8d95-d11ebcc33b27" width="28%"/>
 </div>
 
 ## 🚀 Tecnologías usadas
